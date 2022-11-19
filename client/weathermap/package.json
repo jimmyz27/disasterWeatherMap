@@ -29,7 +29,7 @@
     "react-material-ui-form-validator": "^2.0.10",
     "react-mdl": "^2.1.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "reactjs-popup": "^1.5.0",
     "reactstrap": "^8.4.1"
   },
